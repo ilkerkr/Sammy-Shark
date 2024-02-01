@@ -1,0 +1,106 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: "Helvetica", Sans-Serif;
+    background-image: url(./img/background-image.jpeg);
+}
+.profile-small{
+    height:150px;
+    border-radius: 50%;
+    border: 10px solid #FEDE00;
+}
+.header{
+    padding: 40px;
+    text-align: center;
+    background: #f9f7f7;
+    margin: 30px;
+    font-size: 20px;
+}
+.column-2{
+    /* border: 2px solid blue; */
+    float: left;
+    width: 45%;
+    padding: 40px 70px;
+    height: 470px;
+    margin: 30px 30px 70px 30px;
+    background-color: #FEDE00;
+    line-height: 2;
+}
+.picture{
+    background-image: url("./img/human.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.project-heading{
+    text-align: center;
+    color:#102C4E;
+    margin-top: 150px;
+    margin-bottom:70px;
+    font-size: 35px;
+}
+.column-4 {
+    float: left;
+    width: 21%;
+    padding: 10px;
+    margin:20px;
+    height: 250px;
+}
+.project-1 {
+    background: url('./img/project-left.jpeg');
+    background-size: cover;
+}
+.project-2 {
+    background-color: aqua;
+}
+.project-3 {
+    background-color:#209BFF;
+}
+.project-4 {
+    background-color:#112d4e;
+}
+.project-5 {
+    background-color: aqua;
+}
+.project-6 {
+    background-color:#209BFF;
+}
+.project-7 {
+    background-color:#112d4e;
+}
+.project-8 {
+    background: url('./img/project-right.jpeg');
+    background-size: cover;
+}
+.project-text{
+    text-align: center;
+    font-size: 50px;
+}
+.project-2:hover {
+  background-color:#FEDE00;
+}
+
+.project-3:hover {
+   background-color: #FEDE00;
+}
+
+.project-4:hover {
+   background-color: #FEDE00;
+}
+
+.project-5:hover {
+   background-color: #FEDE00;
+}
+
+.project-6:hover {
+   background-color: #FEDE00;
+}
+
+.project-7:hover {
+   background-color: #FEDE00;
+}
+.section-break{
+    /* border: 5px solid lime; */
+    margin: 50px;
+    height: 500px;
+}
