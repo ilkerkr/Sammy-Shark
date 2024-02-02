@@ -1,6 +1,8 @@
 <h1>Sammy Shark</h1>
 
-[👉click here to login My Portfolio Page](https://ilkerkr.github.io/Sammy-Shark/)
+![Sammy Shark Gif](./img/Sammy-Shark.gif)
+
+[👉click here to login Sammy Shark](https://ilkerkr.github.io/Sammy-Shark/)
 
 <h2>Descriptions</h2>
 <p>The project aims to create Sammy the Shark's portfolio page in html and css code </p>
